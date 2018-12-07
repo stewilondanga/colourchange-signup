@@ -39,9 +39,9 @@ div {
 h1 {
   font-family: 'PT Sans', sans-serif;
   /*   font-family: 'Nanum Gothic', sans-serif */
-  /*}
+}
 
-.center, .signup__field, .signup__button{
+/*.center, .signup__field, .signup__button{
    display: flex;
   justify-content: center;
   align-items: center;
